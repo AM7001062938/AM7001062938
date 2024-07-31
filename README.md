@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @AM7001062938
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Hey, I am Amartya. (He/Him/His) 
+   
 
-<!---
-AM7001062938/AM7001062938 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+I am Amartya Chowdhury, currently pursuing my Undergrad majoring in Computer Science.
+
+Besides programming, I like music and talking with folks in the Developer community.
+
+Tools and Technologies
+Javascript Python
+
+MySQL Linux IntelliJ IDEA
